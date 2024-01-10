@@ -1,4 +1,5 @@
-GKMIT Restaurant :- Restaurant to order and find delicious food.
+
+PrismMagic Restaurant :- Restaurant to order and find delicious food.
 
 Restaurant Website using MERN Stack.
 
@@ -29,4 +30,4 @@ Contact Us Page:-
 
 
 
-Free Live Demo:-https://restaurant-frontend-5teja4ug1-himanshur25.vercel.app/
+Free Live Demo:-https://restaurant-frontend-5teja4ug1-PrismMagic.vercel.app/
