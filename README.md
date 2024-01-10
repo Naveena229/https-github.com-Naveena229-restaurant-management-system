@@ -30,4 +30,4 @@ Contact Us Page:-
 
 
 
-Free Live Demo:-https://restaurant-frontend-5teja4ug1-PrismMagic.vercel.app/
+Free Live Demo:-https://restaurant-frontend-5teja4ug1-Himanshur25.vercel.app/
